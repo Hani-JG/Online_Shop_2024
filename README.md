@@ -41,15 +41,15 @@ This repository contains the following files to help you explore the project:
    - A summarized version of the dashboard for quick reference.
 
 ## How to Use
-1. Download the `dashboard.pbix` file.
+1. Download the `Online_Shop_2024.pbix` file.
 2. Open it in Power BI Desktop to view the interactive report.
-3. Review the `dataset.xlsx` file for the raw data used in the analysis.
-4. Alternatively, open the attached PDF (`Totall_Online_shop.pdf`) for a quick overview of the visualizations.
+3. Review the `Online_Shop_2024.xlsx` file for the raw data used in the analysis.
+4. Alternatively, open the attached PDF (`Online_Shop_2024.pdf`) for a quick overview of the visualizations.
 
 ## Technologies Used
 - **Power BI Desktop**
 - **Excel** for data preparation
-- **Data Source**: [Kaggle Dataset]([https://www.kaggle.com/path-to-dataset](https://www.kaggle.com/datasets/marthadimgba/online-shop-2024/data?select=suppliers.csv)
+- **Data Source**: [Online Shop Dataset](https://www.kaggle.com/datasets/marthadimgba/online-shop-2024/data?select=suppliers.csv)
 
 ## License
 This project is for educational and demonstration purposes. If you use this work, please credit the original dataset source.
